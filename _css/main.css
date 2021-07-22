@@ -6,3 +6,7 @@
     border: 1px solid green;
     border-radius: 5px;
 }
+
+.table-responsive img {
+    width: 100px;
+}
